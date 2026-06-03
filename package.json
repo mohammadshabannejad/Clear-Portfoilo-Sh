@@ -1,0 +1,41 @@
+{
+  "name": "clear-portfolio",
+  "version": "1.0.0",
+  "description": "A minimal portfolio crafted with focus and clarity.",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mohammadshabannejad/Clear-Portfolio.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mohammadshabannejad/Clear-Portfolio/issues"
+  },
+  "homepage": "https://github.com/mohammadshabannejad/Clear-Portfolio#readme",
+  "dependencies": {
+    "@radix-ui/react-slot": "^1.2.4",
+    "@types/node": "^25.3.0",
+    "@types/react": "^19.2.14",
+    "@types/react-dom": "^19.2.3",
+    "autoprefixer": "^10.4.24",
+    "class-variance-authority": "^0.7.1",
+    "clsx": "^2.1.1",
+    "lucide-react": "^0.575.0",
+    "next": "^16.1.6",
+    "next-themes": "^0.4.6",
+    "postcss": "^8.5.6",
+    "react": "^19.2.4",
+    "react-dom": "^19.2.4",
+    "tailwind-merge": "^3.5.0",
+    "tailwindcss": "^3.4.19",
+    "tailwindcss-animate": "^1.0.7",
+    "typescript": "^5.9.3"
+  }
+}
